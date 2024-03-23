@@ -14,7 +14,7 @@ O conjunto de dados utilizado neste projeto contém informações sobre transaç
 
 Neste projeto, utilizei técnicas de aprendizado de máquina para construir um sistema de recomendação de produtos. Algumas das técnicas e algoritmos utilizados incluem:
 
-- Algoritmo Apriori para extração de regras de associação
+- Algoritmo Apriori para extração de regras de associação.
 - Sistemas de recomendação baseados em filtragem colaborativa de feedback implícito.
 
 ## Avaliação de Desempenho
